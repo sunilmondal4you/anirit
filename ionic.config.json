@@ -1,5 +1,7 @@
 {
   "name": "com.aniriturbanagro",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
